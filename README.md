@@ -1,14 +1,14 @@
 ### Bonjour/hi, I'm Jacinthe 👋
 
-[![Website](https://img.shields.io/website?message=Website&color=blueviolet&style=for-the-badge)](https://jabeaudry.github.io/portfolio/)
-[![Behance](https://img.shields.io/website?message=Behance&color=blue&style=for-the-badge)](https://www.behance.net/jacinthebeaudry1)
+[![Website](https://img.shields.io/website?label=Website&color=blueviolet&style=for-the-badge)]
+[![Behance](https://img.shields.io/website?label=Behance&color=blue&style=for-the-badge)]
 
 ## I'm a student, a programmer and a multidisciplinary creator!
 
 - 🎓 I'm pursuing a Double Major in Computer Science and Computation Arts at Concordia University.
 - ⌚ I’m currently busy learning about anything and everything
-- 🥅 2022 Goals: Build more back-end projects and complete the Google UX Course certificate.
-- 🎿 Like any true Canadian, I enjoy nice snowy days to go cross-country skiing. When it's a little warmer outside, you can also find me cycling around the city.
+- 🥅 2022 Goals: Build more back-end projects and complete the Google UX Course Certificate.
+- 🎿 Like any true Canadian, I enjoy nice snowy days to go cross-country skiing.
 
 ### Connect with me:
 
