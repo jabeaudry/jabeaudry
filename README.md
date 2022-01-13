@@ -1,14 +1,17 @@
 # Bonjour/hi, I'm Jacinthe 👋
 
-[![Website](https://img.shields.io/badge/-My%20website-blueviolet)](https://jabeaudry.github.io/portfolio/)
-[![Behance](https://img.shields.io/badge/-Behance-blue)](https://www.behance.net/jacinthebeaudry1)
-
 ## I'm a student, a programmer and a multidisciplinary creator!
 
 - 🎓 I'm pursuing a Double Major in Computer Science and Computation Arts at Concordia University.
 - ⌚ I’m currently busy learning about anything and everything
 - 🥅 2022 Goals: Build more back-end projects and complete the Google UX Course Certificate.
 - 🎿 Like any true Canadian, I enjoy nice snowy days to go cross-country skiing.
+
+### Pinned projects:
+
+[![Recipes](https://img.shields.io/badge/-My%20Recipes-blueviolet)][project1] React.js, Node.js, Express, MySQL <br />
+[![Light](https://img.shields.io/badge/-Light%20Therapy-blue)][project2] Arduino C++, Processing <br />
+[![Sharks](https://img.shields.io/badge/-Shark%20Simulation-blueviolet)][project3] Javascript, PHP, SQLite <br />
 
 ### Connect with me:
 
@@ -38,3 +41,6 @@
 [website]: https://jabeaudry.github.io/portfolio/
 [linkedin]: https://linkedin.com/in/jacinthe-beaudry-108904137/
 [behance]: https://www.behance.net/jacinthebeaudry1
+[project1]: https://github.com/jabeaudry/my-recipes
+[project2]: https://github.com/jabeaudry/light-therapy
+[project3]: https://github.com/jabeaudry/sharks_simulation
