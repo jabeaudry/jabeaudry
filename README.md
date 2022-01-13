@@ -12,6 +12,7 @@
 [![Recipes](https://img.shields.io/badge/My%20Recipes-React.js%2C%20Node.js%2C%20Express%2C%20MySQL-blue)][project1] <br />
 [![Light](https://img.shields.io/badge/Light%20Therapy-Arduino%20C%2B%2B%2C%20Processing-blueviolet)][project2] <br />
 [![Sharks](https://img.shields.io/badge/Shark%20Simulation-Javascript%2C%20PHP%2C%20SQLite-blue)][project3] <br />
+[![Stack](https://img.shields.io/badge/Recursion%20Stack-Java-blueiolet)][project4] <br />
 
 ### Connect with me:
 
@@ -44,3 +45,4 @@
 [project1]: https://github.com/jabeaudry/my-recipes
 [project2]: https://github.com/jabeaudry/light-therapy
 [project3]: https://github.com/jabeaudry/sharks_simulation
+[project4]: https://github.com/jabeaudry/RecursionStack
