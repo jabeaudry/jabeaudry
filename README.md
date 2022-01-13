@@ -1,8 +1,5 @@
 ### Bonjour/hi, I'm Jacinthe 👋
 
-[![Website](https://img.shields.io/website?label=Website&color=blueviolet&style=for-the-badge)]
-[![Behance](https://img.shields.io/website?label=Behance&color=blue&style=for-the-badge)]
-
 ## I'm a student, a programmer and a multidisciplinary creator!
 
 - 🎓 I'm pursuing a Double Major in Computer Science and Computation Arts at Concordia University.
