@@ -7,13 +7,6 @@
 - 🥅 2022 Goals: Build more back-end projects and complete the Google UX Course Certificate.
 - 🎿 Like any true Canadian, I enjoy nice snowy days to go cross-country skiing.
 
-### Pinned projects:
-
-[![Recipes](https://img.shields.io/badge/My%20Recipes-React.js%2C%20Node.js%2C%20Express%2C%20MySQL-blue)][project1] <br />
-[![Light](https://img.shields.io/badge/Light%20Therapy-Arduino%20C%2B%2B%2C%20Processing-blueviolet)][project2] <br />
-[![Sharks](https://img.shields.io/badge/Shark%20Simulation-Javascript%2C%20PHP%2C%20SQLite-blue)][project3] <br />
-[![Stack](https://img.shields.io/badge/Recursion%20Stack-Java-blueviolet)][project4] <br />
-
 ### Connect with me:
 
 [<img align="left" alt="jabeaudry website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
