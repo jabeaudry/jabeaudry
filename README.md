@@ -1,4 +1,4 @@
-### Bonjour/hi, I'm Jacinthe 👋
+# Bonjour/hi, I'm Jacinthe 👋
 
 [![Website](https://img.shields.io/badge/-My%20website-blueviolet)](https://jabeaudry.github.io/portfolio/)
 [![Behance](https://img.shields.io/badge/-Behance-blue)](https://www.behance.net/jacinthebeaudry1)
