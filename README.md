@@ -33,7 +33,7 @@
 ---
 
 [website]: https://jabeaudry.github.io/portfolio/
-[linkedin]: https://linkedin.com/in/jacinthe-beaudry-108904137/
+[linkedin]: https://www.linkedin.com/in/jacinthe-beaudry/
 [behance]: https://www.behance.net/jacinthebeaudry1
 [project1]: https://github.com/jabeaudry/my-recipes
 [project2]: https://github.com/jabeaudry/light-therapy
