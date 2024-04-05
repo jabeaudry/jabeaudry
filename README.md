@@ -2,9 +2,9 @@
 
 ## I'm a student, a programmer and a multidisciplinary creator!
 
-- 🎓 I'm pursuing a Double Major in Computer Science and Computation Arts at Concordia University.
-- ⌚ I’m currently busy learning about anything and everything
-- 🥅 2023 Goals: Build more back-end projects and complete the Google UX Course Certificate.
+- 💼 I'm a full-stack developer at Ticketmaster!
+- ⌚ I’m currently busy learning about anything and everything.
+- 🥅 2023 Goals: Build more back-end projects.
 - 🎿 Like any true Canadian, I enjoy nice snowy days to go cross-country skiing.
 
 ### Connect with me:
