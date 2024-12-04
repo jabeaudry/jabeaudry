@@ -4,7 +4,7 @@
 
 - 💼 I'm a full-stack developer at Ticketmaster!
 - ⌚ I'm currently focusing on design systems and scaling projects with Nx.
-- 🥅 2024 Goals: Build and ship more!!
+- 🥅 2025 Goals: Build and ship more!!
 - 🎿 Like any true Canadian, I enjoy nice snowy days to go cross-country skiing.
 
 ### Connect with me:
