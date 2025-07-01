@@ -1,6 +1,6 @@
 # Bonjour/hi, I'm Jacinthe 👋
 
-## I'm a student, a programmer and a multidisciplinary creator!
+## I'm a programmer and a multidisciplinary creator!
 
 - 💼 I'm a full-stack developer at Ticketmaster!
 - ⌚ I'm currently focusing on design systems and scaling projects with Nx.
